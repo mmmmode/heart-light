@@ -1,4 +1,4 @@
-## 解决Android 7.0以上无法分享文件的FileUriExposedException问题
+## 解决Android 7.0分享文件的FileUriExposedException问题.md
 
 因为android 7.0以上Google对文件分享做了限制，分享文件会报FileUriExposedException 。所以需要配置来取得文件分享的权限。
 
