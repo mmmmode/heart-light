@@ -7,3 +7,6 @@
 
 - [反编译改文件的一些思考方法](https://github.com/mmmmode/heart-light/blob/master/%E5%8F%8D%E7%BC%96%E8%AF%91/%E5%8F%8D%E7%BC%96%E8%AF%91%E6%94%B9%E6%96%87%E4%BB%B6%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E6%96%B9%E6%B3%95.md)
 
+###
+android
+- [解决Android 7.0以上无法分享文件的问题](https://github.com/mmmmode/heart-light/blob/master/android/%E8%A7%A3%E5%86%B3Android%207.0%E4%BB%A5%E4%B8%8A%E6%97%A0%E6%B3%95%E5%88%86%E4%BA%AB%E6%96%87%E4%BB%B6%E7%9A%84%E9%97%AE%E9%A2%98.md)
