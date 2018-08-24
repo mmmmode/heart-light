@@ -46,7 +46,7 @@
 
 在res的xml下面配置file_paths.xml
 
-![](/Users/mode/Desktop/屏幕快照 2018-08-24 上午9.41.39.png)
+![](https://github.com/mmmmode/heart-light/blob/master/img/android/%E8%A7%A3%E5%86%B3Android%207.0%E4%BB%A5%E4%B8%8A%E6%97%A0%E6%B3%95%E5%88%86%E4%BA%AB%E6%96%87%E4%BB%B6%E7%9A%84%E9%97%AE%E9%A2%98/1.png)
 
 **file.xml**
 
